@@ -42,6 +42,12 @@ pip install pygame
 python -c "import pygame; print(pygame.__version__)"
 ```
 
+### 6. Run Game
+
+```bash
+python alien_invasion.py
+```
+
 ## Deactivate the virtual environment
 
 ```bash
